@@ -20,25 +20,35 @@ I'm starting with the core recipe. Ways to build on this will be italicized and 
 
 ### 1. Prep your ingredients
   Everything gets cooked really fast, so make sure everything is out and _your aromatics are already chopped_.
-  ![Ingredient prep](img/prep.JPG "Ingredient prep")
+
+  <img src="img/prep.JPG" alt="Ingredient prep" style="width: 200px;"/>
+
 ### 2. Blanch tofu
   This basically helps your tofu absorb flavor later. Boil a pot of water (enough to cover tofu) and salt it (about the same as you’d salt pasta water, maybe ~1tbsp per quart of water). Boil tofu for two minutes (this is for silken tofu, idk what it is for other firmnesses), then drain water and set aside tofu.
-  ![Tofu blanch](img/blanch.PNG "Tofu blanch")
+
+  <img src="img/blanch.PNG" alt="Tofu blanch" style="width: 200px;"/>
+
 ### 3. Cook dry ingredients
   Heat a wok/skillet on medium-high. When it’s hot, throw in a tablespoon or two of oil. Toss in pork/beef. You don’t need to add salt here cuz half the other ingredients are salty af. Break the meat into little pieces, and cook until most of the liquid is evaporated. _Toss in aromatics_. Keep stirring/cooking until meat is no longer pink.
-  ![Dry ingredients](img/dry.PNG "Dry ingredients")
+
+  <img src="img/dry.PNG" alt="Dry ingredients" style="width: 200px;"/>
+
 ### 4. Stir in salty/umami ingredients
   Stir in doubanjiang — _unless you're using fermented black beans or pickled mustard greens_, you should add in enough so that it’s about as salty as you want the final dish to be since this is your main salt ingredient. _Add in other umami ingredients_ and cook for a minute or so.
-  ![Doubanjiang](img/doubanjiang.PNG "Doubanjiang") ![Umami ingredients](img/umami.PNG "Umami ingredients") ![Mushroom powder](img/mushroom-powder.PNG "Mushroom powder")
+  
+  <img src="img/doubanjiang.PNG" alt="Doubanjiang" style="width: 200px;"/><img src="img/umami.PNG" alt="Other umami ingredients" style="width: 200px;"/><img src="img/mushroom-powder.PNG" alt="Mushroom powder" style="width: 200px;"/>
+
 ### 5. Add liquid and tofu
   _Add flavoring oils._ Stir your cornstarch/potato starch/flour into your water/broth (so that you don’t get clumps of starch in your food). Add this mixture to the meat. Throw in the tofu as well. Simmer for a few minutes to thicken the sauce.
-  ![Chili oil](img/chili-oil.PNG "Chili oil") ![Broth](img/broth.PNG "Broth")
-  ![Tofu](img/add-tofu.PNG "Tofu")
+
+  <img src="img/chili-oil.PNG" alt="Chili oil" style="width: 200px;"/><img src="img/broth.PNG" alt="Broth" style="width: 200px;"/><img src="img/add-tofu.PNG" alt="Tofu" style="width: 200px;"/>
+  
 ### 6. Adjust
   This is where you want to adjust saltiness/consistency/flavor. Add salt if undersalted, stir in some cornstarch if sauce needs to be thicker, _add a splash of vinegar and a pinch of sugar for a bit of brightness_, etc.
 ### 7. Garnish and serve
   Scoop onto a bowl of rice. _Add on toppings and ground peppercorn, if using, to add a bit of freshness and make things look pretty lol_
-  ![Garnish](img/garnish.PNG "Garnish")
+  
+  <img src="img/garnish.PNG" alt="Garnish" style="width: 200px;"/>
 
   And that's basically it!
 
