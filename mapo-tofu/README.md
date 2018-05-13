@@ -64,6 +64,7 @@ You can add any combination of these ingredients/substitutions to build on top o
 
 ### To add umami:
 You can use the following to add more umami to this dish. The traditional way is to use fermented black beans only.
+
 | Ingredient                     | Amount            | Details   |
 | ------------------------------ | ----------------- | --------- |
 | Fermented black beans (minced) | 1 tbsp            | These are super salty and basically pure umami. Rinse these before using to get rid of some of the salt. Be careful how much you use or else they'll overwhelm your dish since they're so salty. You can also soak them in warm water for 10 minutes and then rinse them again to get rid of some of the salt. If you use these, use a bit less doubanjiang to compensate for salt. Brand shouldn't matter much for these. |
