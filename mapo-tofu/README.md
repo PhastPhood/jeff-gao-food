@@ -15,7 +15,7 @@ I'm starting with the core recipe. Ways to build on this will be italicized and 
 | doubanjiang               | 1 tbsp            | This is the one obscure ingredient you can’t really go without. Also known as broad bean paste, chili bean paste/sauce, usually sold in jars in the sauces section of Asian markets, though I’ve seen legit doubanjiang at QFC too. If you can, get one that says Pixian on the jar cause that’s the region of Sichuan where they’re famous for making this. Lee Kum Kee brand is a bit too sweet/not really fermented, but it's ok if that's all you can find. |
 | cornstarch                | 1 tbsp            | This is basically to just thicken the sauce at the end. You can add more if you want the sauce to be thicker |
 | salt                      | 1 tbsp or so      | Basically only used for the blanching step, other ingredients provide saltiness to the actual dish |
-| water                     | 1 cup             | This is the liquid that creates the sauce. You can also use broth instead (explained below) to add some gelatin and additional flavor |
+| water                     | 1/2 cup           | This is the liquid that creates the sauce. You can also use broth instead (explained below) to add some gelatin and additional flavor |
 | neutral flavored oil      | 2 tbsp            | I use peanut, but canola/vegetable works just as well |
 
 ### 1. Prep your ingredients
@@ -94,7 +94,7 @@ Here are some possible garnishes:
 ### Other variations
 Danny Bowien cooks some aged beef fat in the pan before adding the meat to add additional fat and flavor. His old version braised the whole thing slowly in the oven (like a bolognese) instead of cooking everything really quickly in a wok.
 
-David Chang uses Korean gochujang instead of doubanjiang to make it more Korean flavored, and instead of having cubes of tofu, he blends the silken tofu and mixes it into the sauce to give it a silkier texture. He then uses this to coat rice cakes.
+David Chang blends and folds the silken tofu into the sauce and mixes it into the sauce to give it a silkier texture and then uses this to coat rice cakes.
 
 Yu Bo sometimes uses rice tofu or acorn jelly (dotori-muk)
 
@@ -105,7 +105,7 @@ You can make this vegan by cooking shiitake mushrooms on low heat til they get d
 ## My current variation
  - __Meat__ — 1/2 lb ground pork
  - __Aromatics__ — 1/4 cup of green garlic (white and light green parts only, chopped)
- - __Sauce liquid__ — 1 cup Duck broth, with a separate mix of water and cornstarch (1:1 ratio) to thicken the sauce to taste.
+ - __Sauce liquid__ — 1/2 cup duck broth, with a separate mix of water and cornstarch (1:1 ratio) to thicken the sauce to taste.
  - __Umami ingredients__ — 1 tsp mushroom powder, 1/2 cup chopped pickled mustard greens, 1 tbsp chopped fermented black beans
  - __Garnish__ — Green garlic (dark green parts, chopped)
  - __Spiciness__ — 1-2 tbsp of chili oil
@@ -117,7 +117,7 @@ You can make this vegan by cooking shiitake mushrooms on low heat til they get d
 ## Traditional variation
  - __Meat__ — 1/2 lb ground pork
  - __Aromatics__ — 1 scallion (white and light green parts only, chopped), 1 tbsp of minced garlic, 1 tbsp of minced ginger
- - __Sauce liquid__ — 1 cup chicken broth, with a separate mix of water and cornstarch (1:1 ratio) to thicken the sauce to taste.
+ - __Sauce liquid__ — 1/2 cup chicken broth, with a separate mix of water and cornstarch (1:1 ratio) to thicken the sauce to taste.
  - __Umami ingredients__ — 1 tbsp chopped fermented black beans, pinch of MSG too ;)
  - __Garnish__ — The dark green parts of the scallion above, chopped
  - __Spiciness__ — 1-2 tbsp of chili oil
