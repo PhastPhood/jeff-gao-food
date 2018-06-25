@@ -2,7 +2,7 @@
 
 IMO mapo tofu has the highest reward to effort ratio of any Chinese food. The core part of the recipe is super simple with only one obscure ingredient (which isn't even that hard to find since we live in a global™ society now), and it's a pretty forgiving dish. There's a lot of room to fuck around and it'll still taste good, although you should taste frequently while cooking since a lot of these ingredients are salty and you don't want to oversalt.
 
-I like my mapo tofu to be really heavy on umami (toomami?) and oil, with a thick sauce that coats the rice and spicy/numbing enough to be slightly uncomfortable. The flavor should be absorbed into the tofu, and the meat is mostly there for a bit more flavor and a flaky texture.
+I like my mapo tofu to be really heavy on umami (toomami?) and oil, with a thicker sauce that coats the rice and spicy/numbing enough to be slightly uncomfortable. The flavor should be absorbed into the tofu, and the meat is mostly there for a bit more flavor and a flaky texture.
 
 ## Format
 I'm starting with the core recipe. Ways to build on this will be italicized and explained below. At the bottom is what I personally do as well as the traditional recipe.
@@ -70,7 +70,7 @@ You can use the following to add more umami to this dish. The traditional way is
 | Fermented black beans (minced) | 1 tbsp            | These are super salty and basically pure umami. Rinse these before using to get rid of some of the salt. Be careful how much you use or else they'll overwhelm your dish since they're so salty. You can also soak them in warm water for 10 minutes and then rinse them again to get rid of some of the salt. If you use these, use a bit less doubanjiang to compensate for salt. Brand shouldn't matter much for these. |
 | MSG/Mushroom powder            | 1 tsp             | These are basically the same thing (chemical umami), but mushroom powder has less of a stigma. To make mushroom powder, throw a handful of dried shiitake mushrooms in a blender and pulverize into a powder. Homemade mushroom powder is like ground spices and loses potency over time, so don't make too much |
 | Fish sauce                     | 1/2 tsp           | Adds a lot of meaty umami to a dish. A small amount goes a long way. Cook for a bit to get rid of the fishy odor. Red Boat brand 40N is the best quality to use. |
-| Pickled mustard greens         | 1/4 cup           | Not traditional, but Sichuan food uses a lot of pickled mustard greens, and I think they're delicious. Sui mi ya cai ([pic](https://cdn.shopify.com/s/files/1/1495/7408/products/suimiyacai-packets-contrast.jpg?v=1517952350)) is what's typically used in Sichuan food, but it's really hard to find. Suika in Seattle just uses Japanese pickled mustard greens, you could also use zhacai (pickled mustard stem, which is easier to find) or just make your own lol. Like fermented black beans, you might want to rinse these before using to get rid of some of the salt. |
+| Pickled mustard greens         | 1/4 cup           | Not traditional, but Sichuan food uses a lot of pickled mustard greens, and I think they're delicious. Sui mi ya cai ([pic](https://cdn.shopify.com/s/files/1/1495/7408/products/suimiyacai-packets-contrast.jpg?v=1517952350)) is what's typically used in Sichuan food, but it's really hard to find and probably too spiced for this. Suika in Seattle just uses Japanese pickled mustard greens, you could also use zhacai (pickled mustard stem, which is easier to find) or just make your own lol. Like fermented black beans, you might want to rinse these before using to get rid of some of the salt. |
 
 ### To add spiciness
 Add chili oil after cooking your dry ingredients until you reach desired spice level. This dish is best with a healthy amount of fat, so you might want to just add more oil anyways lol.
@@ -78,7 +78,7 @@ Add chili oil after cooking your dry ingredients until you reach desired spice l
 ### To add numbing flavor
 You can use either ground Sichuan peppercorn or Sichuan peppercorn oil to add the classic numbing fragrance to mapo tofu. Red Sichuan peppercorns are more traditional, green ones are more floral.
 
-I like just using peppercorn oil — I'm not a huge fan of the texture of crushed peppercorns (maybe I'm just bad with a mortar and pestle), and it's easier. But it is a bit overkill to get a bottle of peppercorn oil if you don't make a lot of Sichuan food. About half a tbsp of crushed peppercorn or a teaspoon of peppercorn oil are probably good, depending on how numbing you want this to be.
+I like using both peppercorn oil and ground Sichuan peppercorns, though I use a spice blender for my peppercorns cuz I'm trash at using a mortar and pestle, and I like it when my peppercorns are super fine because I don't like a grainy texture. About half a tbsp of crushed peppercorn or a teaspoon of peppercorn oil are probably good, depending on how numbing you want this to be.
 
 For ground peppercorn, add this at the end like a garnish. For the peppercorn oil, add this after cooking your dry ingredients.
 
