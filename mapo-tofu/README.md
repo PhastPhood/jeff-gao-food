@@ -10,7 +10,7 @@ I'm starting with the core recipe. Ways to build on this will be italicized and 
 ## Ingredients
 | Ingredient                | Amount            | Details   |
 | ------------------------- | ----------------- | --------- |
-| ground pork/ground beef   | 1/2 lb            | Whichever you like better, I'm p sure pork is more traditional, but don't quote me on that |
+| ground pork/ground beef   | 1/2 lb            | Whichever you like better. Despite what Fuschia Dunlop sazs, I'm p sure pork is more traditional, but don't quote me on that |
 | tofu (cut into 1in cubes) | 1 package (18 oz) | Silken is best imo, but you can fuck with any firmness if you’re weird. Get the refridgerated plastic tubs instead of the boxes |
 | doubanjiang               | 1 tbsp            | This is the one obscure ingredient you can’t really go without. Also known as broad bean paste, chili bean paste/sauce, usually sold in jars in the sauces section of Asian markets, though I’ve seen legit doubanjiang at QFC too. If you can, get one that says Pixian on the jar cause that’s the region of Sichuan where they’re famous for making this. Lee Kum Kee brand is a bit too sweet/not really fermented, but it's ok if that's all you can find. |
 | cornstarch                | 1 tbsp            | This is basically to just thicken the sauce at the end. You can add more if you want the sauce to be thicker |
@@ -70,7 +70,7 @@ You can use the following to add more umami to this dish. The traditional way is
 | Fermented black beans (minced) | 1 tbsp            | These are super salty and basically pure umami. Rinse these before using to get rid of some of the salt. Be careful how much you use or else they'll overwhelm your dish since they're so salty. You can also soak them in warm water for 10 minutes and then rinse them again to get rid of some of the salt. If you use these, use a bit less doubanjiang to compensate for salt. Brand shouldn't matter much for these. |
 | MSG/Mushroom powder            | 1 tsp             | These are basically the same thing (chemical umami), but mushroom powder has less of a stigma. To make mushroom powder, throw a handful of dried shiitake mushrooms in a blender and pulverize into a powder. Homemade mushroom powder is like ground spices and loses potency over time, so don't make too much |
 | Fish sauce                     | 1/2 tsp           | Adds a lot of meaty umami to a dish. A small amount goes a long way. Cook for a bit to get rid of the fishy odor. Red Boat brand 40N is the best quality to use. |
-| Pickled mustard greens         | 1/4 cup           | Not traditional, but Sichuan food uses a lot of pickled mustard greens, and I think they're delicious. Sui mi ya cai ([pic](https://cdn.shopify.com/s/files/1/1495/7408/products/suimiyacai-packets-contrast.jpg?v=1517952350)) is what's typically used in Sichuan food, but it's really hard to find and probably too spiced for this. Suika in Seattle just uses Japanese pickled mustard greens, you could also use zhacai (pickled mustard stem, which is easier to find) or just make your own lol. Like fermented black beans, you might want to rinse these before using to get rid of some of the salt. |
+| Pickled mustard greens         | 1/4 cup           | Not traditional, but Sichuan food uses a lot of pickled mustard greens, and I think they're gr8. Suika in Seattle just uses Japanese pickled mustard green stems or just make your own lol. Like fermented black beans, you might want to rinse these before using to get rid of some of the salt. |
 
 ### To add spiciness
 Add chili oil after cooking your dry ingredients until you reach desired spice level. This dish is best with a healthy amount of fat, so you might want to just add more oil anyways lol.
@@ -92,7 +92,7 @@ Here are some possible garnishes:
  - __Edible flowers__ — if you're a hipster AND pretentious
 
 ### Other variations
-Danny Bowien cooks some aged beef fat in the pan before adding the meat to add additional fat and flavor. His old version braised the whole thing slowly in the oven (like a bolognese) instead of cooking everything really quickly in a wok.
+Danny Bowien cooks some aged beef fat in the pan before adding the meat to add additional fat and flavor. His old version braised the whole thing slowly in the oven (like a bolognese) instead of cooking everything really quickly in a wok, which makes the meat a little softer.
 
 David Chang blends and folds the silken tofu into the sauce and mixes it into the sauce to give it a silkier texture and then uses this to coat rice cakes.
 
@@ -106,7 +106,7 @@ You can make this vegan by cooking shiitake mushrooms on low heat til they get d
  - __Meat__ — 1/2 lb ground pork
  - __Aromatics__ — 1/4 cup of green garlic (white and light green parts only, chopped)
  - __Sauce liquid__ — 1/2 cup duck broth, with a separate mix of water and cornstarch (1:1 ratio) to thicken the sauce to taste.
- - __Umami ingredients__ — 1 tsp mushroom powder, 1/2 cup chopped pickled mustard greens, 1 tbsp chopped fermented black beans
+ - __Umami ingredients__ — 1 tsp mushroom powder, 1/2 cup chopped pickled mustard green stems, 1 tbsp chopped fermented black beans
  - __Garnish__ — Green garlic (dark green parts, chopped)
  - __Spiciness__ — 1-2 tbsp of chili oil
  - __Numbing flavor__ — 1 tsp of Sichuan peppercorn oil
