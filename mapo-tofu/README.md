@@ -5,12 +5,12 @@ IMO mapo tofu has the highest reward to effort ratio of any Chinese food. The co
 I like my mapo tofu to be really heavy on umami (toomami?) and oil, with a thicker sauce that coats the rice and spicy/numbing enough to be slightly uncomfortable. The flavor should be absorbed into the tofu, and the meat is mostly there for a bit more flavor and a flaky texture.
 
 ## Format
-I'm starting with the core recipe. Ways to build on this will be italicized and explained below. At the bottom is what I personally do as well as the traditional recipe.
+I'm starting with the core recipe. This is a pretty boring version and lacks the mala flavor but serves as a solid base (it'll still have a decent amount of flavor because of the doubanjiang). Ways to build on this will be italicized and explained below. At the bottom is what I personally do as well as the traditional recipe.
 
 ## Ingredients
 | Ingredient                | Amount            | Details   |
 | ------------------------- | ----------------- | --------- |
-| ground pork/ground beef   | 1/2 lb            | Whichever you like better. Despite what Fuschia Dunlop sazs, I'm p sure pork is more traditional, but don't quote me on that |
+| ground pork/ground beef   | 1/2 lb            | Whichever you like better. Despite what Fuschia Dunlop says, I'm p sure pork is more traditional, but don't quote me on that |
 | tofu (cut into 1in cubes) | 1 package (18 oz) | Silken is best imo, but you can fuck with any firmness if you’re weird. Get the refridgerated plastic tubs instead of the boxes |
 | doubanjiang               | 1 tbsp            | This is the one obscure ingredient you can’t really go without. Also known as broad bean paste, chili bean paste/sauce, usually sold in jars in the sauces section of Asian markets, though I’ve seen legit doubanjiang at QFC too. If you can, get one that says Pixian on the jar cause that’s the region of Sichuan where they’re famous for making this. Lee Kum Kee brand is a bit too sweet/not really fermented, but it's ok if that's all you can find. |
 | cornstarch                | 1 tbsp            | This is basically to just thicken the sauce at the end. You can add more if you want the sauce to be thicker |
@@ -34,7 +34,7 @@ I'm starting with the core recipe. Ways to build on this will be italicized and 
   <img src="img/dry.PNG" alt="Dry ingredients" width="200px"/>
 
 ### 4. Stir in salty/umami ingredients
-  Stir in doubanjiang — _unless you're using fermented black beans or pickled mustard greens_, you should add in enough so that it’s about as salty as you want the final dish to be since this is your main salt ingredient. _Add in other umami ingredients_ and cook for a minute or so.
+  Stir in doubanjiang — _unless you're using fermented black beans or pickled mustard greens_, you should add in a bit at a time: just enough so that it’s about as salty as you want the final dish to be since this is your main salt ingredient. _Add in other umami ingredients_ and cook for a minute or so.
   
   <img src="img/doubanjiang.PNG" alt="Doubanjiang" width="200px"/><img src="img/umami.PNG" alt="Other umami ingredients" width="200px"/><img src="img/mushroom-powder.PNG" alt="Mushroom powder" width="200px"/>
 
