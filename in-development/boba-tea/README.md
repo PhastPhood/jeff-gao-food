@@ -17,7 +17,7 @@ General instructions, will work for most brands
 * Steep the boba in syrup for at least 15 minutes
     * I like using honey syrup. My ratios (by volume) are 2 parts water, 2 parts sugar, and 1 part honey. Or by weight, 8:6:3 (water:sugar:honey). 
     * I use turbinado sugar, which has a bit of a molasses flavor, but 50% white sugar and 50% brown sugar is also common
-    * You only need to add enough syrup so that all the boba is submerged, which is a lot less than you think. Give it a stir so that the boba doesn’t stick together.
+    * You only need to add enough syrup so that all the boba is submerged, which is a lot less than you think. Give it a stir so that the boba doesn’t stick together. For 1 cup of uncooked boba, 80g:60g:30g is a good starting point.
 
 ## Tea
 
@@ -36,12 +36,14 @@ If your tea tastes too watery, you can try increasing the amount of tea, increas
 ## Assembling
 
 These are my general ratios for milk teas:
-• 3/4 cups tea (~180 grams)
-• 2 tablespoons half and half (~30 grams)
-    • You want to use a half and half where the cream flavor isn’t overpowering. Most generic store brands will work, but some bougie milks are too strong.
-• 3 tablespoons of 1:1 simple syrup for full sweetness
-    • Measuring by weight is the best way to be consistent, especially since 1 cup of sugar varies wildly based on how granular your sugar is. I do 3 oz sugar to 4 oz water (1 cup sugar to 1 cup water, but my sugar is very granular).
-    • Basically, you just heat water and sugar on medium heat until all the sugar is dissolved
+* 3/4 cups tea (~180 grams)
+* 2 tablespoons half and half (~30 grams)
+    * You want to use a half and half where the cream flavor isn’t overpowering. Most generic store brands will work, but some bougie milks are too strong.
+* 3 tablespoons of 1:1 simple syrup for full sweetness
+    * Measuring by weight is the best way to be consistent, especially since 1 cup of sugar varies wildly based on how granular your sugar is. I do 3 oz sugar to 4 oz water (1 cup sugar to 1 cup water, but my sugar is very granular).
+    * Basically, you just heat water and sugar on medium heat until all the sugar is dissolved
+
+If you want to use oatmilk instead of half and half, 60-90 grams is about right depending on your preferences. Oat milk has a nice creaminess without using cream, but lacks a bit of the full body milk would imo.
 
 You can just add boba to your glass, add ice, add your ingredients and stir, but I think the boba is better if you shake it with ice. Shaking with ice then straining will chill your tea so that it won’t dilute as much in your glass, and it aerates the drink which creates a frothier texture.
 
